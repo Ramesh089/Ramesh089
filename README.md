@@ -112,17 +112,20 @@ I practice coding problems to improve my logical thinking, problem-solving skill
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ramesh089&show_icons=true&theme=tokyonight&hide_border=true" alt="Ramesh's GitHub statistics" />
-</p>
+<table>
+  <tr>
+    <td>
+      <img height="180" src="https://github-readme-stats.vercel.app/api?username=Ramesh089&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Statistics" />
+    </td>
+    <td>
+      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramesh089&layout=compact&langs_count=5&theme=tokyonight&hide_border=true&border_radius=12" alt="Most Used Languages" />
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramesh089&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
-</p>
+<img width="70%" src="https://streak-stats.demolab.com?user=Ramesh089&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Contribution Streak" />
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ramesh089&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-</p>
+
 
 ---
 
